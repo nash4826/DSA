@@ -22,10 +22,12 @@ For running the `.cs` file please using [.Net Finddle](https://dotnetfiddle.net/
 ## Strings
 - [Palindrome](src/Strings/palindrome.cs)
 - [Trie](src/Strings/trie.cs)
+- [Character Limit](src/Strings/character-limit.cs)
 
 ## Search
 - [Binary Search](src/Search/binary-search.cs)
 - [Linear Search](src/Search/linear-search.cs)
+- [Minima Maxima](src/Search/minima-maxima.cs)
 
 ## Maths
 - [Abundant Number](src/Maths/abundant-number.cs)

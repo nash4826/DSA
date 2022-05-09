@@ -6,11 +6,14 @@
 - [Rotate Array](arrays/rotate_array.py)
 - [Missing Number](arrays/missing_number.py)
 - [Remove duplicate items](arrays/remove_duplicates_list.py)
+- [Dutch National Flag Algorithm](arrays/dutch_national_flag_algo.py)
 
 ## Linked Lists
 - [Doubly](linked_lists/doubly.py)
 - [Singly](linked_lists/singly.py)
 - [Reverse List](linked_lists/reverse-linkedlist.py)
+- [Middle Node](linked_lists/middle-node-linkedlist.py)
+
 
 ## Dictionaries
 - [Two Sum](dictionaries/two-sum.py)
@@ -32,6 +35,8 @@
 - [Linear Search](searching/linear_search.py)
 - [Ternary Search](searching/ternary_search.py)
 - [Interpolation Search](searching/interpolation_search.py)
+- [Uniform Cost Search](searching/uniform_cost_search.py)
+- [Breath First Search](searching/breadth-first-search.py)
 
 ## Sorting
 - [Bubble Sort](sorting/bubble_sort.py)
